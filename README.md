@@ -12,6 +12,13 @@ working picture on **Hyprland (Wayland/Xwayland) + NVIDIA** and contains the lau
 `own_window=1` setzt, (2) dem Spielfenster ständig den Fokus zurückgibt, (3) einen Monitor als
 primär setzt und (4) VRR ausschaltet. Details unten.
 
+## Screenshots
+
+Running on the machine below (2560x1440, path traced, Wine on Hyprland):
+
+![GTA 2 with RTX Remix on Linux, in a window on Hyprland](docs/screenshots/gameplay-1.jpg)
+![GTA 2 with RTX Remix on Linux, full resolution](docs/screenshots/gameplay-2.jpg)
+
 ## Tested setup
 
 | | |
