@@ -14,7 +14,7 @@ primär setzt und (4) VRR ausschaltet. Details unten.
 
 ## Screenshots
 
-Running on the machine below (2560x1440, path traced, Wine on Hyprland):
+Running on the machine below (2560x1440, path traced, Wine on Hyprland, [WinDoesNot](https://windoesnot.me/) desktop):
 
 ![GTA 2 with RTX Remix on Linux, in a window on Hyprland](docs/screenshots/gameplay-1.jpg)
 ![GTA 2 with RTX Remix on Linux, full resolution](docs/screenshots/gameplay-2.jpg)
@@ -23,7 +23,7 @@ Running on the machine below (2560x1440, path traced, Wine on Hyprland):
 
 | | |
 |---|---|
-| OS | Arch-based (CachyOS), kernel 7.x |
+| OS | Arch-based, kernel 7.x, with the [WinDoesNot](https://windoesnot.me/) desktop |
 | Compositor | Hyprland 0.56 (Lua config), Xwayland |
 | GPU | NVIDIA RTX 4070 SUPER, proprietary driver |
 | Wine | system `wine-11.21 (staging)` (GE-Proton10-28 behaved the same) |
@@ -97,7 +97,7 @@ normal under Wine (no DLSS).
 
 Mod: [kirmm3la](https://github.com/kirmm3la/gta2-rtx-remix-upgraded) and
 [gebdag](https://github.com/gebdag/gta2-rtx-remix). Runtime: NVIDIA RTX Remix and
-[Remix Plus](https://github.com/RemixProjGroup/dxvk-remix). Worked out together with Claude Code.
+[Remix Plus](https://github.com/RemixProjGroup/dxvk-remix). Desktop environment in the screenshots: [WinDoesNot](https://windoesnot.me/). Worked out together with Claude Code.
 GTA 2 © Rockstar Games.
 
 ## License
